@@ -1,0 +1,5 @@
+gradio
+pandas
+numpy
+openpyxl
+google-generativeai==0.8.5
